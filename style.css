@@ -1,0 +1,22 @@
+body , * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100% !important;
+    height: 100vh !important;
+    background-color: rgb(37, 74, 188, 0.7) !important;
+}
+
+.cont {
+    width: 100%;
+    height: 10%;
+    justify-content: flex-start;
+    margin-top: 100px;
+}
+#list {
+    height: 286px;
+    background-color: white;
+}
+
